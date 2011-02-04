@@ -15,7 +15,7 @@ var WILL = {
     $('#message').html('He works as a sysadmin at <a href="http://37signals.com">37Signals</a> and organises the <a href="http://nwrug.org">North West Ruby User Group</a>');
   },
   isAWrongUn: function() {
-    $('#will').attr('src', '/fist.jpg');
+    $('#will').attr('src', '/fist.gif');
     $('h1').html('Damn you Will Jessop!');
     $('#message').html('37Signals is down and it\'s probably Will\'s fault!');
   }
