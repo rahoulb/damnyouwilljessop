@@ -23,4 +23,7 @@ var WILL = {
 
 $(function() {  
   WILL.checkStatus();
+  $('a.test-me').click(function() {
+    WILL.isAWrongUn();
+  });
 });

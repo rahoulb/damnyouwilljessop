@@ -74,3 +74,6 @@ p.footer a {
   color: #999;
   text-decoration: none;
 }
+img.preload {
+  display: none;
+}
