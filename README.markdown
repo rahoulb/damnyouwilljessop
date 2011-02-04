@@ -6,3 +6,4 @@
 
 **DAMN YOU WILL JESSOP**
 
+This code is all copyright 2011 Rahoul Baruah.  You are free to do what you want with it as long as you abide by the terms of the [Gnu Public Licence](http://www.gnu.org/licenses/gpl.html).  
